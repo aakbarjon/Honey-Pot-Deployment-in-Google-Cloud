@@ -7,7 +7,9 @@
 ### MHN-Admin Deployment (Required)
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
-I have used GCP for MHN-Admin deployment. As you can see I have created two VMs. One for admin and the other for honeypot.
+
+I have used GCP for MHN-Admin deployment. 
+As you can see I have created two VMs. One for admin and the other for honeypot.
 
 
 <img src="mhn-admin.gif">
