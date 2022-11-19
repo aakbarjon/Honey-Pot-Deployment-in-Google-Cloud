@@ -23,7 +23,7 @@ Dionaea gets a copy of the malware with the help of malware trap.
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
-RDBMS is. JSON has a record of Sensor database of attacks that I have received from MHN-admin terminal.
+MHN-Admin uses mongodb. JSON has a record of Sensor database of attacks that I have received from MHN-admin terminal.
 
 
 
