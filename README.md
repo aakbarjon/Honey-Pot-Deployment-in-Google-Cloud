@@ -7,6 +7,7 @@
 ### MHN-Admin Deployment (Required)
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
+I have used GCP for MHN-Admin deployment
 
 <img src="mhn-admin.gif">
 
