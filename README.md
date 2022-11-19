@@ -14,7 +14,8 @@ I have used GCP for MHN-Admin deployment. As you can see I have created two VMs.
 
 ### Dionaea Honeypot Deployment (Required)
 
-**Summary:** Briefly in your own words, what does dionaea do?
+**Summary:** Briefly in your own words, what does dionaea do? 
+Dionaea gets a copy of the malware with the help of malware trap.
 
 <img src="dionaea-honeypot.gif">
 
