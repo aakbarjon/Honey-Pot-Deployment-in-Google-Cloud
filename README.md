@@ -7,7 +7,8 @@
 ### MHN-Admin Deployment (Required)
 
 **Summary:** How did you deploy it? Did you use GCP, AWS, Azure, Vagrant, VirtualBox, etc.?
-I have used GCP for MHN-Admin deployment
+I have used GCP for MHN-Admin deployment. As you can see I have created two VMs. One for admin and the other for honeypot.
+
 
 <img src="mhn-admin.gif">
 
@@ -21,7 +22,8 @@ I have used GCP for MHN-Admin deployment
 
 **Summary:** What is the RDBMS that MHN-Admin uses? What information does the exported JSON file record?
 
-*Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
+RDBMS is. JSON has a record of Sensor database of attacks that I have received from MHN-admin terminal
+
 
 
 
