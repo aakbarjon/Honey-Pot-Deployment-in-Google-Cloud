@@ -3,7 +3,7 @@
 
 **Objective:** Created a honeynet using MHN-Admin.
 
-### MHN-Admin Deployment (Required)
+### MHN-Admin Deployment
 
 
 I have used GCP for MHN-Admin deployment. 
