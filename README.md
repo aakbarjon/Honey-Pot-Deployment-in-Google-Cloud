@@ -10,13 +10,14 @@
 
 I have used GCP for MHN-Admin deployment. 
 As you can see I have created two VMs. One for admin and the other for honeypot.
-
+Gif Walkthrough:
 
 <img src="mhn-admin.gif">
 
 ### Dionaea Honeypot Deployment
 
 Dionaea gets a copy of the malware with the help of malware trap.
+Gif Walkthrough:
 
 <img src="dionaea-honeypot.gif">
 
