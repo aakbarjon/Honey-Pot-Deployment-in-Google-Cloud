@@ -3,7 +3,7 @@
 
 **Time spent:** 20 hours spent in total
 
-**Objective:** Created a honeynet using MHN-Admin.
+**Objective:** Create a honeynet using MHN-Admin.
 
 ### MHN-Admin Deployment
 
